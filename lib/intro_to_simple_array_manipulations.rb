@@ -4,8 +4,8 @@ def using_push(array, string)
     array.push(string)
 end
 
-def using_shift(array, string)
+def using_unshift(array, string)
     array = []
     string = "Brooklyn Heights"
-    array.push(string)
+    array.unshift(string)
 end
