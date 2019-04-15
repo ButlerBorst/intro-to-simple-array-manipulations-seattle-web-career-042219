@@ -12,5 +12,5 @@ end
 
 def using_pop(array)
   array = ["Losing My Religion"]
-  array.pop 
+  new _array = array.pop 
 end
