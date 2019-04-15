@@ -5,12 +5,12 @@ def using_push(array, string)
 end
 
 def using_unshift(array, string)
-    array = []
+    array = [1,2,3,4,5]
     string = "Brooklyn Heights"
     array.unshift(string)
 end
 
 def using_pop(array)
-  array = [1, "Losing My Religion"]
+  array = [1, 2, 3, 4, 5, "Losing My Religion"]
   array.pop 
 end
