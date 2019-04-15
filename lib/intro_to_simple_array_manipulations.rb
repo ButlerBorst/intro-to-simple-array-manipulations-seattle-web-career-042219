@@ -6,6 +6,6 @@ end
 
 def using_shift(array, string)
     array = []
-    string = "Niger"
+    string = "Brooklyn Heights"
     array.push(string)
 end
