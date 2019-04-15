@@ -13,5 +13,5 @@ end
 def using_pop(array)
   array = [1, 2, 3, 4, 5, "Losing my Religion"]
   array.pop = new_array
-  new_array
+  
 end
