@@ -11,7 +11,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  my_array = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
+  my_array = ["Losing My Religion"]
   my_array.pop 
   return my_array
 end
