@@ -1,6 +1,5 @@
-def using_push
+def using_push(array, string)
     array = []
-    new_array = "test"
-    array.push(new_array)
-    return array
+    string = "test"
+    array.push(string)
 end
